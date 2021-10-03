@@ -6,7 +6,7 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science.
 🔭 I’m currently working on React projects.<br/>
 💬 Ask me about things related to web.<br/>
 🌟 Main languages: C/C++, Java, JavaScript <br/>
-🖌️ Love drawing and sketching<br/>
+🖌️ Love sketching<br/>
 🎵 Love metal, rock, jazz and blues<br/>
 ⚡ Fun fact: In a complicated relationship with codes written by me.<br/>
 
