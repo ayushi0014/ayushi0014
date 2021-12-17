@@ -16,7 +16,10 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science.
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ayushi0014&count_private=true&theme=radical&show_icons=true" />
 
-- 📫 How to reach me **sharmaa14001@gmail.com**
+- 📫 How to reach me <br/>
+  write me at **sharmaa14001@gmail.com** or <br/>
+  visit **https://ayushi0014.github.io/aysh_/index.html**
+  
 <br><br>
 <hr>
 
