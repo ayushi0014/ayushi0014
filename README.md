@@ -10,9 +10,9 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science.
 🎵 Love metal, rock, jazz and blues<br/>
 ⚡ Fun fact: In a complicated relationship with codes written by me.<br/>
 
-<a align= "center" href="https://github.com/ayushi0014">
+<a align= "center" href="https://github.com/ayushi0014"></a>
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi0014&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="400" width="500" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ayushi0014&count_private=true&theme=radical&show_icons=true" />
 
