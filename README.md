@@ -7,6 +7,8 @@
 🖌️ Love to draw and sketch.<br/>
 ⚡ Fun fact: In a complicated relationship with codes written by me.<br/>
 
+<br/>
+
 <a align= "center" href="https://github.com/ayushi0014"></a>
 <img align="right" height="400" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
 </p>
