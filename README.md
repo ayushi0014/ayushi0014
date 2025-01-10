@@ -1,10 +1,7 @@
 <h1 align="left">Hello, I'm Ayushi <img src="https://raw.githubusercontent.com/avinal/avinal/main/images/butterfly.gif" width=30%><img src="https://raw.githubusercontent.com/avinal/avinal/main/images/dog.gif" width=20%>
 <h5 align="center">
-I’m a 3rd-year student pursuing a Bachelors’s in Computer science.
 </h5>
 <p align="left">
-🔭 I’m currently working on React projects.<br/>
-💬 Ask me about things related to web.<br/>
 🌟 Main languages: C/C++, Java, JavaScript <br/>
 🖌️ Love sketching<br/>
 🎵 Love metal, rock, jazz and blues<br/>
