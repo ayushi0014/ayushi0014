@@ -3,6 +3,7 @@
   Little About Me 🙂
 </h5>
 <p align="left">
+  <br />
 🌟 Languages I love to code in Golang, C/C++, Java, JavaScript <br/>
 🖌️ Love to draw and sketch.<br/>
 ⚡ Fun fact: In a complicated relationship with codes written by me.<br/>
@@ -17,9 +18,7 @@
 - 📫 How to reach me <br/>
   write me at **sharmaa14001@gmail.com** or <br/>
   visit **https://ayushi0014.github.io/aysh_/index.html**
-  
-<br><br>
-<hr>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
