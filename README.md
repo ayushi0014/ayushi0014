@@ -1,8 +1,9 @@
 <h1 align="left">Hello, I'm Ayushi <img src="https://raw.githubusercontent.com/avinal/avinal/main/images/butterfly.gif" width=30%><img src="https://raw.githubusercontent.com/avinal/avinal/main/images/dog.gif" width=20%>
 <h5 align="center">
+  Little About Me 🙂
 </h5>
 <p align="left">
-🌟 Main languages: Golang, C/C++, Java, JavaScript <br/>
+🌟 Languages I love to code in Golang, C/C++, Java, JavaScript <br/>
 🖌️ Love sketching<br/>
 🎵 Love metal, rock, jazz and blues<br/>
 ⚡ Fun fact: In a complicated relationship with codes written by me.<br/>
