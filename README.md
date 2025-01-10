@@ -2,7 +2,7 @@
 <h5 align="center">
 </h5>
 <p align="left">
-🌟 Main languages: C/C++, Java, JavaScript <br/>
+🌟 Main languages: Golang, C/C++, Java, JavaScript <br/>
 🖌️ Love sketching<br/>
 🎵 Love metal, rock, jazz and blues<br/>
 ⚡ Fun fact: In a complicated relationship with codes written by me.<br/>
