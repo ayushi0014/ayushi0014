@@ -4,8 +4,7 @@
 </h5>
 <p align="left">
 🌟 Languages I love to code in Golang, C/C++, Java, JavaScript <br/>
-🖌️ Love sketching<br/>
-🎵 Love metal, rock, jazz and blues<br/>
+🖌️ Love to draw and sketch.<br/>
 ⚡ Fun fact: In a complicated relationship with codes written by me.<br/>
 
 <a align= "center" href="https://github.com/ayushi0014"></a>
